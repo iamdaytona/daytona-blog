@@ -1,6 +1,6 @@
 baseURL = 'https://bydaytona.com/'
 languageCode = 'en-us'
-title = 'Daytona Driggers'
+title = 'Daytona'
 theme = "PaperMod"
 
 enableRobotsTXT = true
