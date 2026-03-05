@@ -1,0 +1,28 @@
+/* Apple-like typography */
+
+:root {
+  --main-width: 720px;
+}
+
+.post-content {
+  font-size: 18px;
+  line-height: 1.75;
+  letter-spacing: -0.003em;
+}
+
+.post-title {
+  font-size: 2.4rem;
+  letter-spacing: -0.02em;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.02em;
+}
+
+.post-content p {
+  margin-bottom: 1.4rem;
+}
+
+.main {
+  max-width: 720px;
+}

@@ -1,0 +1,39 @@
+baseURL = 'https://bydaytona.com/'
+languageCode = 'en-us'
+title = 'Daytona Driggers'
+theme = "PaperMod"
+
+enableRobotsTXT = true
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = true
+author = "Daytona Driggers"
+
+
+[author]
+name = "Daytona Driggers"
+
+[menu]
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 20
+
+[markup]
+  [markup.highlight]
+    style = "github"
+
+
