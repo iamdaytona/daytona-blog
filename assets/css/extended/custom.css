@@ -3,17 +3,22 @@
     --nav-width: 900px;
 }
 
-body {
-    font-family: -apple-system-ui-serif, ui-serif, 'Georgia', serif;
+html, body, p, span, li, article, section {
+    font-family: -apple-system-ui-serif, ui-serif, 'Georgia', serif !important;
     font-size: 1.1rem;
     line-height: 1.7;
     -webkit-font-smoothing: antialiased;
 }
 
-h1, h2, h3 {
-    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+h1, h2, h3, h4, h5, h6, .entry-title, .post-title {
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif !important;
     font-weight: 700;
     letter-spacing: -0.02em;
+}
+
+p {
+    line-height: 1.8;
+    margin-bottm: 1.5rem;
 }
 
 /* 2. Smooth Fade-In Animation on Page Load */
