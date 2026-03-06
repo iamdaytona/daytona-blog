@@ -12,11 +12,8 @@ enableRobotsTXT = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = false
   ShowCodeCopyButtons = true
-author = "Daytona"
+author = ""
 
-
-[author]
-name = "Daytona"
 
 [menu]
 
