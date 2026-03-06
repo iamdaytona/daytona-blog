@@ -3,6 +3,8 @@ title: Don't Fear the Algorithm
 date: 2026-03-05
 draft: "false"
 tags:
+  - systems
+  - AI
 ---
 It is *everywhere* in the news - AI is taking over the world. While frightening, there is good news, but it is more nuanced. If there is a short summary it is this: structured, well-defined problems are where AI shines, but when it comes to complex and sustained reasoning - AI struggles. And struggles **a lot**.
 
