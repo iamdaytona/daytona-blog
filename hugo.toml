@@ -13,7 +13,8 @@ enableRobotsTXT = true
   ShowBreadCrumbs = false
   ShowCodeCopyButtons = true
 author = "daytona"
-
+canonifyURLs = true
+relativeURLs = false
 
 [menu]
 
