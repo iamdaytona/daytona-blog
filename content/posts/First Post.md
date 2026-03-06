@@ -4,8 +4,6 @@ date: 2026-03-05
 draft: "false"
 tags:
   - systems
-  - design
-  - technology
   - productivity
 ---
 One of the core-tenets of human struggle is change, and in a world that is *rapidly* changing we need some sanity. So many things can be said about humans and systems and design and... well, life. So how can we bring more peace and a little bit of joy?
