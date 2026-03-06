@@ -12,6 +12,7 @@ enableRobotsTXT = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = false
   ShowCodeCopyButtons = true
+showWordCount = true
 author = "daytona"
 canonifyURLs = true
 relativeURLs = false
@@ -29,6 +30,11 @@ identifier = "about"
 name = "About"
 url = "/about/"
 weight = 20
+
+[[menu.main]]
+    name = "Now"
+    url = "/now"
+    weight = 20
 
 [markup]
   [markup.highlight]
